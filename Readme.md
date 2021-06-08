@@ -23,8 +23,8 @@ Project Related Files:
 
 Project Members
 -
+-[Siddhartha Sangani](https://github.com/sanganisiddhartha)
 - [Kalyan Mudumby](https://github.com/theinhumaneme)
 - P Kalyan Sundar
-- Siddhartha Sangani
 - V Samhitha
 - V Vivek Naik
