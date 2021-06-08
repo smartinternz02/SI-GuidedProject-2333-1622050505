@@ -22,8 +22,8 @@ Project Related Files:
 - [Video Explanation](https://drive.google.com/file/d/1QHGl7nJM-lukYF98eFhArpOYZLT3pSST/view?usp=sharing)
 
 Project Members
--
--[Siddhartha Sangani](https://github.com/sanganisiddhartha)
+
+- [Siddhartha Sangani](https://github.com/sanganisiddhartha)
 - [Kalyan Mudumby](https://github.com/theinhumaneme)
 - P Kalyan Sundar
 - V Samhitha
